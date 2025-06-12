@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder (2)\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|e:\\new folder (2)\\project\\project\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\searchbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:searchbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\viewborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:viewborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|e:\\new folder (2)\\project\\project\\getandupdatecustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:getandupdatecustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\getandupdatecustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:getandupdatecustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\returnborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:returnborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\getandupdatebooksdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:getandupdatebooksdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\deletebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:deletebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\addborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:addborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|E:\\New folder (2)\\Project\\Project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|e:\\new folder (2)\\project\\project\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|e:\\new folder (2)\\project\\project\\viewborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7927149-0EA5-4741-A0E9-2DFD9328CF03}|Project.csproj|solutionrelative:viewborrowings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getandUpdateCustomersData.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\getandUpdateCustomersData.cs",
+              "RelativeDocumentMoniker": "getandUpdateCustomersData.cs",
+              "ToolTip": "E:\\New folder (2)\\Project\\Project\\getandUpdateCustomersData.cs",
+              "RelativeToolTip": "getandUpdateCustomersData.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:49:52.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewBorrowings.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\viewBorrowings.cs",
+              "RelativeDocumentMoniker": "viewBorrowings.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\viewBorrowings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:55:08.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchBooks.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\searchBooks.cs",
+              "RelativeDocumentMoniker": "searchBooks.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\searchBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:58:55.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\addCustomer.cs",
+              "RelativeDocumentMoniker": "addCustomer.cs",
+              "ToolTip": "E:\\New folder (2)\\Project\\Project\\addCustomer.cs [Design]",
+              "RelativeToolTip": "addCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:59:42.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "deleteCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\deleteCustomer.cs",
+              "RelativeDocumentMoniker": "deleteCustomer.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\deleteCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:00:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getandUpdateCustomersData.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\getandUpdateCustomersData.cs",
+              "RelativeDocumentMoniker": "getandUpdateCustomersData.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\getandUpdateCustomersData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:00:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "StatisticsForm.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\StatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:03:51.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "returnBorrowing.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\returnBorrowing.cs",
+              "RelativeDocumentMoniker": "returnBorrowing.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\returnBorrowing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:01:06.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "getandUpdateBooksData.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\getandUpdateBooksData.cs",
+              "RelativeDocumentMoniker": "getandUpdateBooksData.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\getandUpdateBooksData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:00:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "deleteBooks.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\deleteBooks.cs",
+              "RelativeDocumentMoniker": "deleteBooks.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\deleteBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:59:53.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "StatisticsForm.cs",
+              "ToolTip": "E:\\New folder (2)\\Project\\Project\\StatisticsForm.cs",
+              "RelativeToolTip": "StatisticsForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:00:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "viewBorrowings.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\viewBorrowings.cs",
+              "RelativeDocumentMoniker": "viewBorrowings.cs",
+              "ToolTip": "E:\\New folder (2)\\Project\\Project\\viewBorrowings.cs",
+              "RelativeToolTip": "viewBorrowings.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:50:08.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addBorrowing.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\addBorrowing.cs",
+              "RelativeDocumentMoniker": "addBorrowing.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\addBorrowing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:55:22.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\New folder (2)\\Project\\Project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "D:\\Material\\Material\\ITI\\Linq\\Project\\Project\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:08:30.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

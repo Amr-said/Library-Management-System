@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addBorrowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deleteBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="getandUpdateBooksData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="getandUpdateCustomersData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="returnBorrowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewBorrowings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

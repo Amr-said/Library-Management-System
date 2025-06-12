@@ -1,0 +1,514 @@
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Project.exe
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Project.deps.json
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Project.runtimeconfig.json
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Project.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Project.pdb
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Castle.Core.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Humanizer.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.csproj.AssemblyReference.cache
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.csproj.GenerateResource.cache
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.AssemblyInfoInputs.cache
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.AssemblyInfo.cs
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.csproj.CoreCompileInputs.cache
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.csproj.Up2Date
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.dll
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\refint\Project.dll
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.pdb
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.genruntimeconfig.cache
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\ref\Project.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Guna.UI2.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.Management.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.Dashboard.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.Properties.Resources.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.addBook.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.deleteBooks.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.searchBooks.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.getandUpdateBooksData.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.addCustomer.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.deleteCustomer.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.searchCustomer.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.getandUpdateCustomersData.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.addBorrowing.resources
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.returnBorrowing.resources
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WebForms.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.SqlServer.Types.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.NETCore.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Duplex.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Security.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\WinForms.DataVisualization.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.StatisticsForm.resources
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ClosedXML.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\RBush.dll
+D:\Material\Material\ITI\Linq\Project\Project\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+D:\Material\Material\ITI\Linq\Project\Project\obj\Debug\net9.0-windows\Project.viewBorrowings.resources
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Project.exe
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Project.deps.json
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Project.runtimeconfig.json
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Project.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Project.pdb
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Azure.Core.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Azure.Identity.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Castle.Core.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ClosedXML.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Guna.UI2.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Humanizer.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Common.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Design.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WinForms.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WebForms.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.SqlServer.Types.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\RBush.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\Microsoft.ReportViewer.NETCore.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.ClientModel.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Management.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Memory.Data.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Duplex.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.Security.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\System.ServiceModel.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\WinForms.DataVisualization.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\New folder (2)\Project\Project\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.csproj.AssemblyReference.cache
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.addBook.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.addBorrowing.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.addCustomer.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.Dashboard.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.deleteBooks.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.deleteCustomer.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.getandUpdateBooksData.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.getandUpdateCustomersData.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.Properties.Resources.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.returnBorrowing.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.searchBooks.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.searchCustomer.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.StatisticsForm.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.viewBorrowings.resources
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.csproj.GenerateResource.cache
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.AssemblyInfoInputs.cache
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.AssemblyInfo.cs
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.csproj.Up2Date
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.dll
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\refint\Project.dll
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.pdb
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\Project.genruntimeconfig.cache
+E:\New folder (2)\Project\Project\obj\Debug\net9.0-windows\ref\Project.dll
