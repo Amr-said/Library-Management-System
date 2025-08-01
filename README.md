@@ -39,5 +39,5 @@ A Windows Forms application built using **C#** and **SQL Server** to streamline 
 
 ## 🎥 Demo
 
-Watch the full demo video on YouTube: [Demo Video]()
+Watch the full demo video on YouTube: [Demo Video](https://drive.google.com/file/d/1Efn_fodoCprVNSgJvlwlM5yk9DX_8Sq0/view?usp=drive_link)
 
